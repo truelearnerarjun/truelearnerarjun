@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙃, I'm Arjun Tandon</h1>
+<h1 align="center">Hi 👾, I'm Arjun Tandon</h1>
 
 ###
 
