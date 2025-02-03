@@ -28,8 +28,12 @@
   - Developing and maintaining web applications<br>
   - Implementing Redux Store for a travel website project<br>
   - Collaborating on frontend and backend improvements<br>
+###
+<h2>Achievements 🏆</h2>
+
+###
 - <strong>Hackathon Experience</strong><br>
-  - <em>Bugathon:</em> Fixed a React app issue related to state management<br>
+  - <em>Bugathon:</em> Fixed a React app issue related to state management and won 30000 💵 <br>
   - <em>Humanalze AI Hackathon:</em> Built a stock prediction project<br>
 - <strong>Competitive Programming</strong><br>
   - Ranked <strong>Top 100</strong> out of <strong>3000 participants</strong> in the <strong>CodeChef Starter Competition</strong>
@@ -109,4 +113,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/truelearnerarjun/truelearnerarjun/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/truelearnerarjun/truelearnerarjun/output/snake.svg" alt="Snake animation" / >
