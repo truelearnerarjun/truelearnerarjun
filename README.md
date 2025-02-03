@@ -12,22 +12,14 @@
 
 <p align="left">
 🔭 I’m currently working on Youtube Delcutter Extension<br>
-💼 I'm working as a Software Engineer Intern at <a href="https://www.ekworth.com/">Ekworth.com</a><br>
+
+
+
 👯 I’m looking to collaborate on Full Stack Projects<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/arjun-tandon-93b775229/">LinkedIn</a>
 </p>
 
-###
 
-<h2 align="left">Experience 💻</h2>
-
-###
-
-<p align="left">
-- <strong>Software Engineer Intern | <a href="https://www.ekworth.com/">Ekworth.com</a></strong> _(Sept 2024 - Present)_<br>
-  - Developing and maintaining web applications<br>
-  - Implementing Redux Store for a travel website project<br>
-  - Collaborating on frontend and backend improvements<br>
 ###
 <h2>Achievements 🏆</h2>
 
