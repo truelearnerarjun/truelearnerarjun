@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Arjun Tandon</h1>
+<h1 align="center">Hi 🙃, I'm Arjun Tandon</h1>
 
 ###
 
@@ -105,8 +105,4 @@
 
 ###
 
-###
-<img src="https://raw.githubusercontent.com/truelearnerarjun/truelearnerarjun/output/snake.svg" alt="Snake animation" />
-
-###
 
