@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arjun Tandon</h1>
-<h3 align="center">A Passionate Software Developer and a Designer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer and Software Engineer</h3>
 
-- 🔭 I’m currently working on **Stock Prediction Project**
+- 🔭 I’m currently working on **Youtube Delcutter Extension** 
 
-- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Designs**
+
+- 👯 I’m looking to collaborate on **Projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arjun-tandon-93b775229/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b4LP8TywjZjPr4uno0pJER2WOj1UI6xe/view?usp=sharing](https://drive.google.com/file/d/1b4LP8TywjZjPr4uno0pJER2WOj1UI6xe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kzGMk1YcR7xo3sKxhvKySfTm_4xuQfUK/view?usp=drive_link](https://drive.google.com/file/d/1kzGMk1YcR7xo3sKxhvKySfTm_4xuQfUK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
