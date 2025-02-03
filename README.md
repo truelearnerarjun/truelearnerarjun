@@ -1,21 +1,112 @@
-<h1 align="center">Hi 👋, I'm Arjun Tandon</h1>
-<h3 align="center">A Passionate Full Stack Web Developer and Software Engineer</h3>
+<h1 align="left">Hi 👋, I'm Arjun Tandon</h1>
 
-- 🔭 I’m currently working on **Youtube Delcutter Extension** 
+###
 
+<p align="left">A Passionate Full Stack Web Developer and Software Engineer</p>
 
+###
 
-- 👯 I’m looking to collaborate on **Projects**
+<h2 align="left">About Me 😎</h2>
 
-- 📫 How to reach me **https://www.linkedin.com/in/arjun-tandon-93b775229/**
+###
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kzGMk1YcR7xo3sKxhvKySfTm_4xuQfUK/view?usp=drive_link](https://drive.google.com/file/d/1kzGMk1YcR7xo3sKxhvKySfTm_4xuQfUK/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arjun-tandon-93b775229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-tandon-93b775229" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/arjuntandon82849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arjuntandon82849/" height="30" width="40" /></a>
+🔭 I’m currently working on Youtube Delcutter Extension<br>
+💼 I'm working as a Software Engineer Intern at <a href="https://www.ekworth.com/">Ekworth.com</a><br>
+👯 I’m looking to collaborate on Full Stack Projects<br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/arjun-tandon-93b775229/">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+###
+
+<h2 align="left">Experience 💻</h2>
+
+###
+
+<p align="left">
+- <strong>Software Engineer Intern | <a href="https://www.ekworth.com/">Ekworth.com</a></strong> _(Sept 2024 - Present)_<br>
+  - Developing and maintaining web applications<br>
+  - Implementing Redux Store for a travel website project<br>
+  - Collaborating on frontend and backend improvements<br>
+- <strong>Hackathon Experience</strong><br>
+  - <em>Bugathon:</em> Fixed a React app issue related to state management<br>
+  - <em>Humanalze AI Hackathon:</em> Built a stock prediction project<br>
+- <strong>Competitive Programming</strong><br>
+  - Ranked <strong>Top 100</strong> out of <strong>3000 participants</strong> in the <strong>CodeChef Starter Competition</strong>
+</p>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<p align="left">
+📄 Know about my experiences: <a href="https://drive.google.com/file/d/1kzGMk1YcR7xo3sKxhvKySfTm_4xuQfUK/view?usp=drive_link">My Resume</a><br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/arjun-tandon-93b775229/">LinkedIn</a>
+</p>
+
+###
+
+<h2 align="left">Languages And Tools 😤</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/truelearnerarjun/truelearnerarjun/output/snake.svg" alt="Snake animation" />
